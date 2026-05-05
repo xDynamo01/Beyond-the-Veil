@@ -12,7 +12,6 @@ It contains multiple moons, unfamiliar constellations, and flowing streams of Ve
 
 The light is diffuse and unnatural, as if the forest itself emits illumination.
 
-<img width="968" height="545" alt="image" src="https://github.com/user-attachments/assets/8a36e3c1-45aa-4198-825d-97accfafd3f8" />
 <img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/67afcbfd-0b4f-45d9-9e86-ef6fad637194" />
 
 ## Ruins of the Forgotten Civilization
@@ -36,6 +35,8 @@ They live in small tribal villages, forming survival-based societies.
 
 They are not harmonious.
 Their culture is shaped by constant fear of Veil Beasts, scarcity, and territorial survival.
+
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/143d90df-8534-447b-a1a6-b9af4ef88bb4" />
 
 ## Remnants of the Ancient Civilization
 Rare survivors or remnants may still exist:
