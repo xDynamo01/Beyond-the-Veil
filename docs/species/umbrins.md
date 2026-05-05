@@ -6,7 +6,7 @@
 Umbrins are extremely rare anomalies within humanity.
 Among Velados, they are treated as legends and horror stories.
 
-Many Velados believe Umbrins are not real.
+Many Veiled believe Umbrins are not real.
 
 ## Perception Effect
 When a Velado sees an Umbrin, they experience:
@@ -14,7 +14,7 @@ When a Velado sees an Umbrin, they experience:
 - dark markings around the eyes
 - overwhelming fear and instinctive terror
 
-This reaction feels like the Velado is staring at its own predatory nature.
+This reaction feels like the Veiled is staring at its own predatory nature.
 
 Sunglasses can partially hide this perception.
 
