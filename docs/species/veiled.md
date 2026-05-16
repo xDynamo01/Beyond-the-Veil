@@ -29,6 +29,7 @@ Visible to everyone.
 This form grants maximum physical strength and access to full abilities.
 
 This form is dangerous to use publicly because it breaks the illusion of secrecy.
+<img width="968" height="545" alt="image" src="https://github.com/user-attachments/assets/9de4ab36-9fa7-4f2b-9cc8-435c367d4151" />
 
 ## Power Rules
 - Most Veiled have similar baseline "Veil density" in their blood.
