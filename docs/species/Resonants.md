@@ -9,6 +9,8 @@ To Resonants, it feels like a second reality layered on top of the first.
 
 Veiled can often detect Resonants by instinct, describing them as humans with an unnatural presence or "wrong aura."
 
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/374268ec-d15a-41f2-a7be-cc7d33742a1e" />
+
 ---
 
 ## Veil Scars
@@ -22,6 +24,8 @@ These scars can appear as:
 - subtle bone distortion
 
 However, the most powerful Resonants often show no visible scars, making them harder to identify.
+
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/ac8f91cf-dd4e-48b0-863c-6c57269e7e3a" />
 
 ---
 
