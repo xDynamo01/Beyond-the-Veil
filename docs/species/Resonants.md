@@ -80,6 +80,24 @@ Failure is catastrophic and may result in:
 For this reason, most Resonants refuse to attempt Beast suppression.
 
 ---
+## Prime Resonants
+Prime Resonants are extremely rare individuals who reached an abnormal level of synchronization with the Veil.
+
+Unlike common Resonants, Prime Resonants often display:
+- minimal or no visible Veil Scars
+- stronger perception of Veil distortions
+- the ability to open Microfissures with greater stability
+- partial resistance to Veil backlash
+
+Some Prime Resonants are capable of suppressing Veil Beasts more reliably, making them highly valuable assets.
+
+### Threat Level
+Prime Resonants are considered high-risk individuals.
+The Council of Silence monitors them closely, and Royals actively seek to recruit or control them.
+
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/706a52a6-25c6-4a1b-a673-f5ac640a2c31" />
+
+---
 
 ## Relationship with Royals
 Royals rarely fight directly due to the risk of exposure, Veil rupture, and activation of their Royal Presence.
