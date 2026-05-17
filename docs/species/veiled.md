@@ -41,3 +41,25 @@ This form is dangerous to use publicly because it breaks the illusion of secrecy
 Veiled often refer to normal humans using an old term:
 **"Leer"**, meaning "the empty ones."
 This reflects their belief that humans are unaware and spiritually uncharged.
+
+## Royal Veiled
+Royal Veiled are pure-blood aristocratic bloodlines within Veiled society.
+
+They possess a naturally higher Veil density in their blood, granting them:
+- superior strength and speed in Veiled/Unveiled Form
+- stronger supernatural abilities
+- deeper resistance to ordinary Veil toxins and rituals
+
+However, their power comes with severe risk.
+
+### Royal Presence ("Royal Mark")
+When a Royal Veiled uses power intensely, they emit a supernatural signature known as the **Royal Presence**.
+This presence makes them detectable across the supernatural world and increases the chance of Veil instability.
+
+Because of this, most Royals avoid direct combat and rely on:
+- servants and loyal Veiled
+- contracted Familiars
+- controlled Resonants
+
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/2e0929d0-4523-4270-82df-50626382d07c" />
+
