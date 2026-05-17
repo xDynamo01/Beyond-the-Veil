@@ -1,5 +1,7 @@
 # Resonants
 
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/374268ec-d15a-41f2-a7be-cc7d33742a1e" />
+
 ## Overview
 Resonants are humans capable of perceiving the supernatural world.
 They can see Veiled in both **Veiled Form** and **Unveiled Form**, and often sense disturbances connected to the Veil.
@@ -9,7 +11,7 @@ To Resonants, it feels like a second reality layered on top of the first.
 
 Veiled can often detect Resonants by instinct, describing them as humans with an unnatural presence or "wrong aura."
 
-<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/374268ec-d15a-41f2-a7be-cc7d33742a1e" />
+
 
 ---
 
