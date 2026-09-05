@@ -78,9 +78,6 @@ Improve AI behaviors and combat feedback
 Add save/load system
 Create first full investigation mission
 
-## ⚠️ Disclaimer
 
-This is a personal project created for learning and portfolio purposes.
-It is not affiliated with or endorsed by the official creators of the Grimm TV series.
 
 4cf325cf8cee" />
